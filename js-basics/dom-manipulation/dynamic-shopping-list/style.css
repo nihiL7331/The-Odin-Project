@@ -1,0 +1,13 @@
+* {
+  background-color: dimgray;
+  color: ghostwhite;
+  font-family: Roboto, sans-serif;
+}
+
+button {
+  padding: 4px 8px;
+}
+
+input {
+  background-color: black;
+}
